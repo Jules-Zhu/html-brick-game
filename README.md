@@ -82,6 +82,15 @@ One-click **FREE** deployment and instant play - no installation required.
 
 <br/>
 
+<iframe 
+  src="https://jules-zhu.github.io/html-brick-game/" 
+  width="800" 
+  height="600"
+  style="border:none;"
+  title="brick breaker"
+></iframe>
+
+
 [![🎮 Play Now 🎮](https://gradient-svg-generator.vercel.app/api/svg?text=%F0%9F%8E%AE%20Play%20Now%20%F0%9F%8E%AE&color=000000&height=60&gradientType=radial&duration=6s&color0=ffffff&template=pride-rainbow)][demo-link]
 
 <br/>
